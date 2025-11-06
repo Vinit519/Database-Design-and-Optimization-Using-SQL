@@ -16,7 +16,7 @@ The "SQL Projects" repository includes various SQL tasks and projects completed 
 To explore or run the SQL queries and stored procedures:
 1. Clone or download the repository to your local machine.
    
-            https://github.com/jaiswalchitransh/SQL-Projects.git
+            https://github.com/Vinit519/Database-Design-and-Optimization-Using-SQL
    
 2. Open the SQL scripts in your preferred SQL Environment, such as Microsoft SQL Server Management Studio (SSMS) or Azure Data Studio.
 
@@ -44,16 +44,24 @@ The repository contains various SQL tasks and implementations:
 
 
 ## Contribution
-I, **[Chitransh Jaiswal](https://www.linkedin.com/in/jaiswalchitransh/)** developed this Project Individually. I was responsible for all aspects of the project, including design, development, testing, and documentation.
-Contributions to improve the efficiency, readability, or functionality of the code are welcome. To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add some feature'`).
-5. Push to the branch (`git push origin feature/your-feature`).
-6. Create a new Pull Request.
+This project was initially started by **[Chitransh Jaiswal](https://www.linkedin.com/in/jaiswalchitransh/)**. It was further **designed, optimized, and extended** by **[Vinit Patil](https://www.linkedin.com/in/vinit-patil-a7a852329/)**. I was responsible for all aspects of the project, including:
 
-Please ensure your contributions adhere to the coding standards and follow the existing style and structure.
+- Database schema design and normalization  
+- Implementation of indexing, stored procedures, and transaction management  
+- Optimization of queries for improved performance and efficiency  
+- Testing and validation of SQL queries and workflows  
+- Documentation of project features and usage instructions  
+
+Contributions to improve efficiency, readability, or functionality of the code are welcome. To contribute:
+
+1. Fork the repository  
+2. Create a new branch (`git checkout -b feature/your-feature`)  
+3. Make your changes  
+4. Commit your changes (`git commit -am 'Add some feature'`)  
+5. Push to the branch (`git push origin feature/your-feature`)  
+6. Create a new Pull Request  
+
+Please ensure your contributions adhere to coding standards and follow the existing style and structure.
 
 ---
 
